@@ -3310,13 +3310,13 @@ body:not(.touch-device) .owl-item:hover .details__preview {
   height: 150px;
   padding: 30px;
   border-radius: 50%;
-  background: #00113B;
+  background: #fff;
   text-align: center;
   opacity: 0;
   font-size: 18px;
   line-height: 1.33333;
   font-weight: 500;
-  color: #fff;
+  color: #1E2B39;
   -webkit-transition: all .25s;
   -o-transition: all .25s;
   transition: all .25s;
